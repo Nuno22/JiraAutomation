@@ -11,7 +11,7 @@ public class AddAttachmentToIssue {
     public static void addAttachmentToIssue(SessionFilter session, String issueID){
         String response;
         File file =
-                new File("C:\\Users\\nunom\\Documents\\Udemy\\jiraAutomation\\src\\main\\java\\org\\main\\files");
+                new File("C:\\Users\\nunom\\Documents\\Udemy\\jiraAutomation\\src\\main\\java\\org\\main\\files\\file.txt");
         System.out.println(file.exists());
         RestAssured.baseURI = "http://localhost:8080";
         response = given()

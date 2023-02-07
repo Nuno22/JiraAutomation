@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14262e51-a4b8-46b2-a5a9-ca4b3fc078a5" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/AddAttachmentToIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/AddComment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/CreateIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/CreateSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/DeleteIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/api/GetIssue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/files/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/tools/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/tools/Payload.java" afterDir="false" />
+    <list default="true" id="14262e51-a4b8-46b2-a5a9-ca4b3fc078a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/api/AddAttachmentToIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/api/AddAttachmentToIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/tools/Payload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/tools/Payload.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675435801152</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1675764805632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675764805632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

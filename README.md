@@ -5,6 +5,7 @@ Automate processes in Jira using Rest Assured and Java
  **Udemy** [Rest API Testing (Automation)](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/)
 
 ## Documentation
+- [Markdown] (https://www.markdownguide.org/cheat-sheet/)
 - [Maven] (https://maven.apache.org/guides/getting-started/index.html#How_do_I_make_my_first_Maven_project)
 - [RestAssured] (https://github.com/rest-assured/rest-assured/wiki/Usage#static-imports)
 - [TestNG] (https://testng.org/doc/eclipse.html)
